@@ -2,6 +2,10 @@
 
 <br>
 
+You can watch the full presentation of our project which is mainly focused on the design of the database by clicking [here!](https://www.youtube.com/watch?v=RfWCqz8Vvac)
+
+<br>
+
 As a team of 5 students, we gathered a huge variety of information by researching then created a single table with some fake personas to imitate a functioning hospital. After that, we pinpointed the attributes that should be primary/secondary keys. Finally, we formed a 3NF relational database from scratch by writing the SQL queries that we wrote and run on the MySQL server.
 
 <br>
