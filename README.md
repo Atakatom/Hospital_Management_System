@@ -153,6 +153,7 @@
 		 '2021-01-12 14:10:00'
 )
 ```
+
 </div>
 </div>
 <div style="padding:50px;"><p>
@@ -350,12 +351,19 @@ UPDATE analysisType
    SET title = 'not analysed'
  WHERE title = '';
 ```
-</div>
+
 </div>
 
-<div style="padding:50px;"><p>
+</div>
+
+<div style="padding:50px;">
+
+<p>
 You can see rest of the necessary queries for separating the main table into smaller group of attributes with their primary/secondary keys and the placing ID to take the place of those attributes here!
-<p></div>
+
+<p>
+
+</div>
 
 
 ## Creating view of Patient Records by joining every table
@@ -514,11 +522,18 @@ You can see rest of the necessary queries for separating the main table into sma
     INNER JOIN disease
        ON disease.ID = dd.diseaseID
 ```
-</div>
-</div>
-<div style="padding:50px;"><p>
-In the SQL code above, there is union of two select queries full of necessary join commands to form such a big view of hospital records which is the copy of the original table.
-</div><p>
 
+</div>
+
+</div>
+
+<div style="padding:50px;">
+
+<p>
+
+In the SQL code above, there is union of two select queries full of necessary join commands to form such a big view of hospital records which is the copy of the original table.
+</div>
+
+<p>
 
 </div>
