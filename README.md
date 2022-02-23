@@ -47,7 +47,7 @@ The actual usage of the query above
 
 <br> 
 
-<img width="800" height="300" src="img/query-2.png">
+<img width="800" height="400" src="img/query-2.png">
 
 <br>
 
