@@ -2,7 +2,7 @@
 
 <br>
 
-You can watch the full presentation of our project which is mainly focused on the design of the database by clicking [here!](https://www.youtube.com/watch?v=RfWCqz8Vvac)
+**You can watch the full presentation of our project which is mainly focused on the design of the database by clicking [here!](https://www.youtube.com/watch?v=RfWCqz8Vvac)**
 
 <br>
 
